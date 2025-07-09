@@ -1,4 +1,4 @@
-![image alt](https://github.com/shiv-mm/shiv-mm/blob/5e234eafe5d3e6ba7c0d7b6d363c50ad336f3107/Embedded-Machine-Learning.jpg)
+![image alt](https://github.com/shiv-mm/shiv-mm/blob/0d5559904b3e6c413f6505dd8f96a90a5f4fb297/Embedded-Machine-Learning.jpg)
 #  I'm Shivam ,Welcome to my GitHub
 ## 🤝 Connect with Me
 
